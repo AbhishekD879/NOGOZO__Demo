@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NOGOZO__Demo/static/css/main.e7e1e8c8.chunk.css",
+    "main.js": "/NOGOZO__Demo/static/js/main.343859fe.chunk.js",
+    "main.js.map": "/NOGOZO__Demo/static/js/main.343859fe.chunk.js.map",
+    "runtime-main.js": "/NOGOZO__Demo/static/js/runtime-main.25774211.js",
+    "runtime-main.js.map": "/NOGOZO__Demo/static/js/runtime-main.25774211.js.map",
+    "static/js/2.e2fdc2fd.chunk.js": "/NOGOZO__Demo/static/js/2.e2fdc2fd.chunk.js",
+    "static/js/2.e2fdc2fd.chunk.js.map": "/NOGOZO__Demo/static/js/2.e2fdc2fd.chunk.js.map",
+    "index.html": "/NOGOZO__Demo/index.html",
+    "static/css/main.e7e1e8c8.chunk.css.map": "/NOGOZO__Demo/static/css/main.e7e1e8c8.chunk.css.map",
+    "static/js/2.e2fdc2fd.chunk.js.LICENSE.txt": "/NOGOZO__Demo/static/js/2.e2fdc2fd.chunk.js.LICENSE.txt",
+    "static/media/nfy.36b904d5.jpg": "/NOGOZO__Demo/static/media/nfy.36b904d5.jpg",
+    "static/media/nogoConta.2cd5dc8e.jpg": "/NOGOZO__Demo/static/media/nogoConta.2cd5dc8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25774211.js",
+    "static/js/2.e2fdc2fd.chunk.js",
+    "static/css/main.e7e1e8c8.chunk.css",
+    "static/js/main.343859fe.chunk.js"
+  ]
+}
